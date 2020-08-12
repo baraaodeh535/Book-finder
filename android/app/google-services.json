@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329365093164",
+    "firebase_url": "https://book-finder-f9b17.firebaseio.com",
+    "project_id": "book-finder-f9b17",
+    "storage_bucket": "book-finder-f9b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329365093164:android:f9808f7850b4d185ea0a89",
+        "android_client_info": {
+          "package_name": "com.example.bookfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329365093164-sf5fjjscdlgdpcig5ccsdf21m5mordob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSX9JMpWXs5HPu39Xk6Bt4s9oNRDIDWH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329365093164-sf5fjjscdlgdpcig5ccsdf21m5mordob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
