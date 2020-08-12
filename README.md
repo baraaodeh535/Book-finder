@@ -1,6 +1,6 @@
 # bookfinder
 
-A new Flutter application.
+A new Flutter application for searching on a book by its name using google books API.
 
 ## Getting Started
 
